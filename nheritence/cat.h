@@ -1,7 +1,7 @@
 #pragma once
 #include "inheritance.h"
 
-class cat: public animal{
+class cat : public animal{
     public:
         void sound();
 };

@@ -5,3 +5,7 @@ using namespace std;
 void dog::sound(){
     cout<<"wof wof🐶🐶🐶"<<endl;
 }
+void dog::aliveCheck(){
+    dog Dog;
+    cout<<Dog.alive<<endl;
+}
