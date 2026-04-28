@@ -1,2 +1,8 @@
 ## hello git
--- what up??
+- what up??
+    
+    |name   |
+    _________
+    |age    |
+    _________
+    |color  |
