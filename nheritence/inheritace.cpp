@@ -1,7 +1,10 @@
 #include <iostream>
+#include "inheritance.h"
 
 using namespace std;
 
-int main(){
-    
+void animal::eat(){
+    cout<<"i am eating"<<endl;
 }
+
+
